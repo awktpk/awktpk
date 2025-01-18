@@ -1,7 +1,7 @@
 # 🌌✨ Добро пожаловать! ✨🌌  
 
 <p align="center">
-  <img src="https://media.tenor.com/ZSJ2thlqzyYAAAAC/your-name-stars.gif" alt="Your Name Stars" width="600">
+  <img src="https://raw.githubusercontent.com/awktpk/awktpk/main/assets/your-name-stars.gif" alt="Your Name Stars" width="600">
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/jljsGNh5C80AAAAC/your-name-comet.gif" alt="Comet Your Name" width="500">
+  <img src="https://raw.githubusercontent.com/awktpk/awktpk/main/assets/your-name-comet.gif" alt="Comet Your Name" width="500">
 </p>
 
 <p align="center">
