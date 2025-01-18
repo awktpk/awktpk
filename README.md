@@ -1,7 +1,7 @@
 # 🌌✨ Добро пожаловать! ✨🌌  
 
 <p align="center">
-  <img src="https://c.tenor.com/ZSJ2thlqzyYAAAAC/tenor.gif" alt="Your Name Stars">
+  <img src="https://media.tenor.com/ZSJ2thlqzyYAAAAC/your-name-stars.gif" alt="Your Name Stars" width="600">
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ---
 
 ## 💖 **Мои проекты**
-- 🌠 **[Мой сайт](https://panel.worldplayer.ru)**: Место где ты втретил судюбу.  
+- 🌠 **[Мой сайт](https://panel.worldplayer.ru)**: Место, где ты встретил судьбу.  
 - 📜 **[Портфолио](https://github.com/awktpk)**: Путешествие через мои разработки.  
 - 🎮 **Игровые серверы**: Связываю друзей через игры.
 
@@ -48,9 +48,8 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://c.tenor.com/jljsGNh5C80AAAAC/tenor.gif" alt="Comet Your Name">
+  <img src="https://media.tenor.com/jljsGNh5C80AAAAC/your-name-comet.gif" alt="Comet Your Name" width="500">
 </p>
 
 <p align="center">
