@@ -1,4 +1,4 @@
-# 🌸 Привет! Добро пожаловать на мой профиль! 🌸
+# 🌸 Добро пожаловать в мой аниме-мир! 🌸
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IyMzk3Y2Y4OGEyYzI0NjhhOGVjNzYyMzE2OTMxZTdlMmI0OWY2NyZjdD1n/rK7Wq5NcfwiXDtAifm/giphy.gif" width="400"/>
@@ -6,38 +6,21 @@
 
 ---
 
-## 💖 Немного обо мне
-- 🎀 **Любитель аниме** и кода 🎨
-- 💻 Работаю над интересными проектами, связанными с вебом и играми
-- 🗾 Фанат японской культуры и **Cat Girls** 🐾
+## 🏮 Особенности моего профиля:
+- **🎵 Фоновая музыка**: Пусть аниме-настроение сопровождает тебя!  
+- **🌸 Падающие лепестки сакуры**: Ощути атмосферу весны в Японии.  
+- **💖 Яркий дизайн**: Стилизация в стиле аниме с милыми эффектами.  
 
 ---
 
-## 🔧 Использую
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,github,linux&theme=light" />
-</p>
+## 🎀 Немного обо мне
+- ✨ Люблю писать код и смотреть аниме
+- 🎮 Фанат игр и серверов Minecraft
+- 🌸 Обожаю всё, связанное с японской культурой!
 
 ---
 
-## 🌟 Интересные проекты
-- **[🎮 Мой игровой сервер](https://worldplayer.ru)** — заходи поиграть вместе!
-- **[📊 Таблицы для быстрого заполнения](https://example.com)** — просто и удобно!
-
----
-
-## ✨ Fun Fact
-> Аниме меня вдохновляет так же, как кофе ☕ вдохновляет программистов. 😄
-
----
-
-## 📈 GitHub Статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<твой_никнейм>&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=<твой_никнейм>&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎵 Музыка для настроения
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
+## 🔗 Полезные ссылки:
+- 🌐 [Мой сайт](https://worldplayer.ru)
+- 🎮 [Игровой сервер](https://example.com)
+- 📜 [Портфолио](https://github.com/<твой_никнейм>)
