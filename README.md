@@ -40,9 +40,9 @@
 
 ## 📈 **GitHub Статистика**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<awktpk>&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=<твой_никнейм>&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<твой_никнейм>&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awktpk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=awktpk&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awktpk&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
