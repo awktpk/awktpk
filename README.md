@@ -1,7 +1,7 @@
 # 🌌✨ Добро пожаловать! ✨🌌  
 
 <p align="center">
-  <img src="https://c.tenor.com/ZSJ2thlqzyYAAAAC/tenor.gif" width="600" alt="Your Name Stars">
+  <img src="https://c.tenor.com/ZSJ2thlqzyYAAAAC/tenor.gif" width="1400" alt="Your Name Stars">
 </p>
 
 ---
@@ -50,7 +50,7 @@
 
 
 <p align="center">
-  <img src="https://c.tenor.com/jljsGNh5C80AAAAC/tenor.gif" width="400" alt="Comet Your Name">
+  <img src="https://c.tenor.com/jljsGNh5C80AAAAC/tenor.gif" width="1400" alt="Comet Your Name">
 </p>
 
 <p align="center">
