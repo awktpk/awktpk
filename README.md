@@ -1,66 +1,58 @@
-# 🌸✨ Добро пожаловать в мой аниме-уголок! ✨🌸  
+# 🌌✨ Добро пожаловать! ✨🌌  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI4NjliMzBhODFhYmYzNDA3NTVkNDBlOGFmNGM0YTlhZmM1ZWZjOCZjdD1n/w1OBpBd7kJqHrJnJ13/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="600" alt="Your Name Stars">
 </p>
 
 ---
 
-## 💖 **Обо мне**
-- 🌸 **Привет!** Я аниме-разработчик, увлекающийся программированием и играми!  
-- ✨ Создаю магию через код: сайты, серверы и автоматизацию.  
-- 🎮 Люблю Minecraft, веб-дизайн и всё, что связано с творчеством.  
-
----
-
-## 🌸 **Мои навыки**
+## 💫 **"Ты когда-нибудь чувствовал, что ищешь кого-то?"**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,docker,linux&theme=light" />
+  "Your Name" вдохновляет меня создавать проекты, которые соединяют людей, как звёзды соединяют небо.  
 </p>
 
 ---
 
-## 🌟 **Чем я горжусь**
-- 🚀 **[Мой сайт](https://panel.worldplayer.ru)** — место, где разные миры!  
-- 🎮 **Игровой сервер:** создаю проекты для фанатов Minecraft.  
-- 🛠 **Автоматизация:** упрощаю жизнь через скрипты и приложения.  
+## 🌟 **Обо мне**
+- 🌀 **Разработчик мечты**: Создаю проекты, которые объединяют искусство и технологии.  
+- 🌌 **Интересы**: Веб-дизайн, анимация и серверные технологии.  
+- 💖 **Философия**: Код, как нитка судьбы, связывает наши миры.  
 
 ---
 
-## 🌸 **Аниме-уголок**
-<details>
-  <summary>💖 Кликни, чтобы открыть мои любимые аниме!</summary>
-  - Naruto 🌀  
-  - Demon Slayer ⚔️    
-  - Your Name 🌌  
-  - One Piece 🏴‍☠️  
-</details>
-
----
-
-## 📈 **GitHub Статистика**
+## 🌌 **Навыки**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awktpk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=awktpk&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awktpk&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,linux,docker,git&theme=light" alt="Навыки" />
 </p>
 
 ---
 
-## 🎶 **Музыка для настроения**
-> "Лучше всего работать под музыку аниме OST 🎧!"  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
+## 💖 **Мои проекты**
+- 🌠 **[Мой сайт](https://panel.worldplayer.ru)**: Место где ты втретил судюбу.  
+- 📜 **[Портфолио](https://github.com/awktpk)**: Путешествие через мои разработки.  
+- 🎮 **Игровые серверы**: Связываю друзей через игры.
 
 ---
 
-## 🏮 **Fun Facts**
-- 🐾 Обожаю милых персонажей и котиков в аниме!  
-- 🌸 Верю, что каждое приложение должно приносить радость пользователям.  
-
----
-
+## 🌠 **Статистика**
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE2NzJlNjJhZDA4NmVmYjU1YmE1OGVhMjUwM2NiNTBhYzkxNjQzZiZjdD1n/ZFTKZeb4zA7mMxPiE1/giphy.gif" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awktpk&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=awktpk&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">🌸 Спасибо, что заглянул(а)! 🌸</p>
+---
+
+## 🌌 **Любимые цитаты**
+> ✨ *"Всё, что мы пережили, даже самая малая деталь, имеет значение."*  
+> ✨ *"Мы смотрим в небо, чтобы найти что-то большее."*  
+
+---
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Comet Your Name">
+</p>
+
+<p align="center">
+  ✨ Спасибо за то, что зашёл(а). До встречи среди звёзд! 🌠
+</p>
