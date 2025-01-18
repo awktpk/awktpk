@@ -22,7 +22,7 @@
 
 ## 🌌 **Навыки**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,linux,docker,git&theme=light" alt="Навыки" />
+  <img src="https://skillicons.dev/icons?i=python,linux,discord,bots,git&theme=light" alt="Навыки" />
 </p>
 
 ---
