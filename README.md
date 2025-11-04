@@ -22,9 +22,11 @@
 
 ## 🌌 **Навыки**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,discord,bots,git&theme=light" alt="Навыки" />
+  <img src="https://skillicons.dev/icons?i=python,linux,discord,bots,git&theme=light" alt="Навыки" /> 
+</p>
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/killtv3031.png" alt="" />
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/killtv3031.png" alt="ThyHackMe" />
 </p>
 
 ---
